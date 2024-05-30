@@ -91,7 +91,7 @@
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="men.jsp">Mens Clothing</a>
+                            <a class="nav-link" href="men.jsp">Mens cloth Clothing</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="women.jsp">Womens Clothing</a>
